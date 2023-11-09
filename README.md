@@ -1,3 +1,3 @@
-# Data Structures & Algorithms
+## Data Structures & Algorithms
 
-### dsa in c++ for interview prep
+some dsa implemented in c++.
